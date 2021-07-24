@@ -4,6 +4,9 @@ main() {
   double b = 3.1;
   var c = "sou uma string";
   c = '3';
+  dynamic x = 'teste';
+  x = 123;
+  x = false;
   var nome = ['muller', 'leo', 'pedro', 'jeff', 'jonas'];
   nome.add('nick');
   nome.add('taylor');
